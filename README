@@ -1,0 +1,6 @@
+To compile QtAgain, do the following:
+- copy VST 2.4 SDK source files inside this directory
+- modify Visual Studio include path to add VST interface path as well as Qt include path
+- download Qt Solution WinMigrate and compile it
+
+Compile QtAgain and you're good to go !
